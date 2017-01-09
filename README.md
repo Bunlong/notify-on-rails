@@ -78,6 +78,10 @@ class UsersController < ApplicationController
 end
 ```
 
+## Dependencies
+- [jQuery v1.10.2](http://jquery.com/)
+- [Bootstrap v2.0.0 - 3.2.0](http://getbootstrap.com/)
+
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/Bunlong/notify-on-rails. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
