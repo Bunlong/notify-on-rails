@@ -47,6 +47,8 @@ Add notices and notify-on-rails alerts into your rails application.html.erb.
     <% end %>
     <%= yield %>
     <script>
+      // from: 'top/bottom'
+      // align: 'left/center/right'
       $.notify($("#notice").html(), {
         allow_dismiss: false,
         placement: {
