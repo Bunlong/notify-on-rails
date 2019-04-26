@@ -1,4 +1,4 @@
-# Notify::On::Rails
+# Notify::On::Rails [![Gem Version](https://badge.fury.io/rb/notify-on-rails.svg)](http://badge.fury.io/rb/notify-on-rails) [![Gem Total Downloads](https://img.shields.io/gem/dt/notify-on-rails.svg)](https://rubygems.org/gems/notify-on-rails)
 
 notify-on-rails is a simple standard Bootstrap alerts  notifications.
 
@@ -88,4 +88,6 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/Bunlon
 
 ## License
 
-The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+[MIT License](https://github.com/Bunlong/notify-on-rails/blob/master/LICENSE)
+
+Copyright (c) 2017 - Present, [Bunlong VAN](https://github.com/Bunlong) ( Maintainer )
